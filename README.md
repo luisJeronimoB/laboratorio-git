@@ -1,3 +1,3 @@
 # Laboratorio Git
 
-Por favor dirigete al laboratorio compartio en el grupo de teams.
+Por favor dirigete al laboratorio compartido en el grupo de teams.
